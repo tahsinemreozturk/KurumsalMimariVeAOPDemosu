@@ -1,0 +1,15 @@
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\bin\Debug\net8.0\Demo.Entities.deps.json
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\bin\Debug\net8.0\Demo.Entities.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\bin\Debug\net8.0\Demo.Entities.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\bin\Debug\net8.0\Core.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\bin\Debug\net8.0\Core.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.csproj.AssemblyReference.cache
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.AssemblyInfoInputs.cache
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.AssemblyInfo.cs
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Ent.E4371810.Up2Date
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\refint\Demo.Entities.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\Demo.Entities.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.Entities\obj\Debug\net8.0\ref\Demo.Entities.dll

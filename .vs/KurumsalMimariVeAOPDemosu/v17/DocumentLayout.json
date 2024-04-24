@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133FE306-3D2A-4705-AA95-DE537D177F55}|Demo.ConsoleUI\\Demo.ConsoleUI.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133FE306-3D2A-4705-AA95-DE537D177F55}|Demo.ConsoleUI\\Demo.ConsoleUI.csproj|solutionrelative:demo.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B1594-E5E1-4232-B406-00D16BFE5BD4}|Demo.DataAccess\\Demo.DataAccess.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.dataaccess\\concrete\\nhibernate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B1594-E5E1-4232-B406-00D16BFE5BD4}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\concrete\\nhibernate\\nhproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B1594-E5E1-4232-B406-00D16BFE5BD4}|Demo.DataAccess\\Demo.DataAccess.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B1594-E5E1-4232-B406-00D16BFE5BD4}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C803AEA-D9C9-4BB7-BED9-050359D2EB02}|Demo.Business\\Demo.Business.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C803AEA-D9C9-4BB7-BED9-050359D2EB02}|Demo.Business\\Demo.Business.csproj|solutionrelative:demo.business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C803AEA-D9C9-4BB7-BED9-050359D2EB02}|Demo.Business\\Demo.Business.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.business\\demo.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C803AEA-D9C9-4BB7-BED9-050359D2EB02}|Demo.Business\\Demo.Business.csproj|solutionrelative:demo.business\\demo.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1B1594-E5E1-4232-B406-00D16BFE5BD4}|Demo.DataAccess\\Demo.DataAccess.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1B1594-E5E1-4232-B406-00D16BFE5BD4}|Demo.DataAccess\\Demo.DataAccess.csproj|solutionrelative:demo.dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C803AEA-D9C9-4BB7-BED9-050359D2EB02}|Demo.Business\\Demo.Business.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C803AEA-D9C9-4BB7-BED9-050359D2EB02}|Demo.Business\\Demo.Business.csproj|solutionrelative:demo.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A964D91A-D3A5-47AC-99B4-64F1E6E6BD62}|Demo.Entities\\Demo.Entities.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\demo.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A964D91A-D3A5-47AC-99B4-64F1E6E6BD62}|Demo.Entities\\Demo.Entities.csproj|solutionrelative:demo.entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D7F373-D5EC-49C7-9D07-77A06417805F}|Core\\Core.csproj|c:\\users\\tahsin emre\\source\\repos\\kurumsalmimariveaopdemosu\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D7F373-D5EC-49C7-9D07-77A06417805F}|Core\\Core.csproj|solutionrelative:core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:54:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Demo.Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Demo.Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:50:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:46:00.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:15:13.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Demo.Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Demo.Entities\\Concrete\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:01:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "Demo.ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:00:47.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo.Business",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Business\\Demo.Business.csproj",
+              "RelativeDocumentMoniker": "Demo.Business\\Demo.Business.csproj",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Business\\Demo.Business.csproj",
+              "RelativeToolTip": "Demo.Business\\Demo.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T19:25:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "RelativeDocumentMoniker": "Demo.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "RelativeToolTip": "Demo.DataAccess\\Concrete\\NHibernate\\NhProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:53:57.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Demo.Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Tahsin Emre\\source\\repos\\KurumsalMimariVeAOPDemosu\\Demo.Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Demo.Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:58:24.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

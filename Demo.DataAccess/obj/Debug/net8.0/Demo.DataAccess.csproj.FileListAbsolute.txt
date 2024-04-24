@@ -1,0 +1,17 @@
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.deps.json
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Core.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Demo.Entities.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Demo.Entities.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\bin\Debug\net8.0\Core.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfo.cs
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.Dat.A47E8246.Up2Date
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\refint\Demo.DataAccess.dll
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.pdb
+C:\Users\Tahsin Emre\source\repos\KurumsalMimariVeAOPDemosu\Demo.DataAccess\obj\Debug\net8.0\ref\Demo.DataAccess.dll
